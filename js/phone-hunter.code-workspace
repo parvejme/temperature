@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../JavaScript/phone-hunter"
+		},
+		{
+			"path": "../../../JavaScript/AI-universe-hub"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "temperature-hot"
+	}
+}
